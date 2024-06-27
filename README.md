@@ -10,12 +10,10 @@ Text Analyser is a simple yet powerful React application that allows users to in
 - **Twitter/X Character Limit**: Shows how many characters are left for a Twitter/X post (max 280 characters).
 
 ## Demo
-Live link: https://stylish-counter-app.netlify.app
+Live link: https://word-analyser1.netlify.app
 
-![Screenshot_8](https://github.com/Ashab-Asir/stylish-counter/assets/113583194/0ddd4ec9-1ae1-4308-8461-0c9970908961)
+![Screenshot_9](https://github.com/Ashab-Asir/text-analyser/assets/113583194/135b7f7d-1649-4e02-916d-6dad3621bc0f)
 
 
 ## Technologies Used
-
 - React
-- CSS
